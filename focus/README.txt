@@ -1,13 +1,4 @@
 
-TITLE: 
-Focus - Fully Responsive Free HTML5 template
-
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
@@ -27,8 +18,6 @@ http://modernizr.com/
 Google Fonts
 https://www.google.com/fonts/
 
-Google Map
-https://maps.google.com
 
 Icomoon
 https://icomoon.io/app/
@@ -42,8 +31,6 @@ http://daneden.me/animate
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Demo Images:
-http://unsplash.com/
 
 jQuery Counter
 https://github.com/mhuggins/jquery-countTo
