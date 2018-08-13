@@ -21,11 +21,28 @@ body {
 }
 body.menu-show {
   overflow: hidden;
-  position: fixed;
+  
   height: 100%;
   width: 100%;
 }
+.navbar-collapse
+{
+  margin-left:65%;
+}
+.navbar-collapse ul li a {
+      color: #FA7E0A !important;
+      font-size:24px;
 
+}
+@media screen and (max-width: 430px) {
+  .navbar-collapse ul li a {
+    font-size:17px;
+  }
+  .navbar-toggler
+  {
+    border:none;
+  }
+}
 #fh5co-wrapper {
   height: 100%;
   width: 100%;
@@ -280,7 +297,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-  padding: 3em 0;
+  padding: 0.5em 0;
 }
 @media screen and (max-width: 768px) {
   header {
